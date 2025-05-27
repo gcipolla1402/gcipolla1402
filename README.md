@@ -2,7 +2,7 @@ Olá, eu sou o Gabriel Cipolla 👋
 
 
 
-- 🔭 Faço faculdade do curso sistema de informação
+- 🔭 Faço faculdade do curso sistema de informação estou cursando o 2 semestre
 - 🌱 atualmente estudando java
 - 😄 Pronouns: Ele/dele
 
