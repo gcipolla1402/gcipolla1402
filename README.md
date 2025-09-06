@@ -2,7 +2,7 @@ Olá, eu sou o Gabriel Cipolla 👋
 
 
 
-- 🔭 Faço faculdade do curso sistema de informação estou cursando o 3 semestre
+- 🔭 Faço faculdade do curso Sistema de Informação estou cursando o 3 semestre
 - 🌱 Foco em java
 - 📍 Localização: São Paulo/SP Brasil
 - 😄 Pronouns: Ele/dele
